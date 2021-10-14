@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <string.h>
 #include "header/NTP_client.h"
-
+//struct timespace
 typedef struct timespce timespce;
 
 int main(int argc, char *argv[]) {
